@@ -1,4 +1,4 @@
-# Personal Portfolio Website - Shanyu Zhou
+# Personal Portfolio Website
 
 This is the source code for the personal portfolio website of Shanyu Zhou, a web front-end developer and Master of Information Technology student at UNSW. The website provides an overview of my background, contact information, and links to social profiles.
 
@@ -34,7 +34,7 @@ To set up the website locally, follow these steps:
 
 1. Clone the repository to your local machine using:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Chowsyzzz/Chowsyzzz.github.io.git
     ```
 2. Ensure that you have a directory structure like this:
     ```
